@@ -33,6 +33,8 @@
 @use 'blocks/bordered-grid';
 @use 'blocks/review-card';
 @use 'blocks/rating-view';
+@use 'blocks/about-card';
+@use 'blocks/about';
 
 .header,
 main > *:not(:last-child),
