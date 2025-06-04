@@ -1,0 +1,15 @@
+{
+  "Custom Image Tag": {
+    "prefix": "img-custom",
+    "body": [
+      "<img ",
+      "  src=\"$1\" ",
+      "  alt=\"$2\" ",
+      "  width=\"$3\" ",
+      "  height=\"$4\" ",
+      "  loading=\"lazy\" ",
+      "/>"
+    ],
+    "description": "Кастомный тег <img> с указанием ширины, высоты и lazy load."
+  }
+}
